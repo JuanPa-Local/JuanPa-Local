@@ -1,7 +1,7 @@
 <!--Start Introduction-->
 
 <h1> Hi, I'm Juan Pablo... </h1>
-Studying systems engineering
+<h2> Studying systems engineering </h2>
 
 <!--Start Code-->
 ```javascript
